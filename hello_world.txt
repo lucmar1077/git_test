@@ -1,4 +1,6 @@
 Hello World!
 Let's see if I remember how to push this to GitHub...
 Ok ok one more test
-Wait actually let me test pushing multiple files
+
+Edit 1: Testing if separate git commits are loaded all at 
+once after git push or if they actually are separate.
